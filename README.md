@@ -20,7 +20,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone [URL]
+git clone https://github.com/decibel1030/quotestrangerthings
 ```
 
 2. Установите зависимости:
